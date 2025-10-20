@@ -1,4 +1,4 @@
-**<center> VacuumBot </center>**
+# VacuumBot
 > A DIY vacuum bot made to clean my house
 
 # Objective
