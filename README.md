@@ -14,4 +14,4 @@ The objective of this project is to build a DIY Vacuum robot to clean my appartm
 * At the first time, maps the place using cameras or sensors.
 * Communicate with the central using radio.
 * After the place is mapped, the central corrects the path using RTK.
-* Have an app to monitor and start/end cleaning.
+* Have an app to monitor, start/end cleaning, and define if is using the pre-determined path or new one.
